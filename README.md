@@ -47,7 +47,7 @@ Amazon-Clone/
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/Amazon-Clone.git
+   git clone https://github.com/zishan4hmed/Amazon-Clone.git
    ```
 
 2. Open the project folder.
@@ -63,7 +63,7 @@ Amazon-Clone/
 You can host this project using GitHub Pages and add the link here:
 
 ```text
-https://yourusername.github.io/Amazon-Clone/
+https://zishan4hmed.github.io/Amazon-Clone/
 ```
 
 ---
@@ -73,7 +73,7 @@ https://yourusername.github.io/Amazon-Clone/
 Add a screenshot named `screenshot.png` to your repository and use:
 
 ```markdown
-![Amazon Clone Screenshot](screenshot.png)
+![Amazon Clone Screenshot](images/Screenshot.png)
 ```
 
 ---
