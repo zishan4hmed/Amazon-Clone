@@ -70,8 +70,6 @@ https://zishan4hmed.github.io/Amazon-Clone/
 
 ## 📸 Screenshot
 
-Add a screenshot named `screenshot.png` to your repository and use:
-
 ```markdown
 ![Amazon Clone Screenshot](images/Screenshot.png)
 ```
